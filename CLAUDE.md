@@ -36,6 +36,6 @@ Plain HTML, CSS and a little JavaScript. No build step. Hosted on Netlify, conne
 
 ## Current state
 - Design system: Paper (editorial and calm), built from the Paper starter kit, with pictures (`media`) added for the home page.
-- Both repositories are on GitHub. The design system repository holds the Paper kit and the home prototype (`prototypes/home.html`). The website repository has `assets/`, `netlify.toml` and `CLAUDE.md` on `main`; the home page (`index.html`) is on the branch `build/home`, in a pull request.
+- Both repositories are on GitHub. The design system repository holds the Paper kit and the home prototype (`prototypes/home.html`). The website repository has `assets/`, `netlify.toml`, `CLAUDE.md` and the home page (`index.html`, merged in pull request #1) on `main`.
 - Business name: artxyz.
 - Still to decide in chat: the Shop, About and Contact pages and their copy (the home page links to `shop.html`, `about.html` and `contact.html`, which do not exist yet), the real pictures (the home prototype uses sample photos), and the makers' story.
